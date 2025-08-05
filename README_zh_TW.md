@@ -53,10 +53,6 @@ https://github.com/87owo/Microsoft_Runtime/releases
 
 https://github.com/0sha0/PYAS_Protection
 
-## 開源協議
-
-https://github.com/87owo/PYAS/blob/main/LICENSE.md
-
 ## 支援系統
 
 Windows 8.1, 10, 11 (64-bit),記憶體 500MB, 磁碟容量 200MB 或更高
