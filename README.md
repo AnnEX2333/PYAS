@@ -59,10 +59,6 @@ https://github.com/87owo/Microsoft_Runtime/releases
 
 https://github.com/0sha0/PYAS_Protection
 
-## MIT license
-
-https://github.com/87owo/PYAS/blob/main/LICENSE.md
-
 ## Support System
 
 Windows 8.1, 10, 11 (64-bit), Ram 500MB, Rom 200MB or higher
